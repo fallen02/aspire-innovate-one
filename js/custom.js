@@ -122,7 +122,7 @@
       itemsTablet: [600,2], //2 items between 600 and 0;
       itemsMobile : [480,1], // itemsMobile disabled - inherit from itemsTablet option
       pagination : false,
-      
+      autoplayHoverPause: true,
       scrollPerPage: false
   });
 

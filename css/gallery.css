@@ -3,11 +3,8 @@
 	padding: 1rem;
 	margin-bottom: 4rem;
 	min-height: fit-content;
-	display: flex;
 	justify-content: center;
-
 	align-items: flex-start
-	
 }
 
 .gallery img {
